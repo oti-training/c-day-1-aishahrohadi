@@ -12,7 +12,7 @@
 
 int main(void) {
     // TODO: Add your printf statements here
+    printf ("Hello, Post-Silicon Validation World!\n");
 
     return 0;
-}
-
+    }
